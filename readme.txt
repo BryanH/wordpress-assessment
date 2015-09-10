@@ -1,5 +1,5 @@
 ==Self Assessment Generator ===
-Contributors:  HBJitney LLC
+Contributors:  bryanhanks
 Tags: quiz, questions, survey, feedback
 Requires at least: 4.0.0
 Tested up to: 4.2.2
