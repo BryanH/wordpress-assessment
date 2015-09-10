@@ -1,4 +1,4 @@
-elf Assessment Generator ===
+==Self Assessment Generator ===
 Contributors:  HBJitney LLC
 Tags: quiz, questions, survey, feedback
 Requires at least: 4.0.0
